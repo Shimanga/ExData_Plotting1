@@ -21,3 +21,4 @@ plot(data$DateTime,
     ylab="Global Active Power (kilowatts)", 
     main="")
 dev.off()
+.
